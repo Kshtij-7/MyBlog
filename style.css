@@ -41,3 +41,11 @@ input
 .music-head i {
     float: right;
 }
+.book {
+    cursor: pointer;
+}
+.img-modal {
+    display: inline-block;
+    height: 50%;
+    width: 50%;
+}
